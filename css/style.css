@@ -6,7 +6,8 @@ section{color: azure;}
              h2{color: red;}
              ul{color: crimson;} 
              font-size: 150%;
-            font-family: 'Franklin Gothic Medium', Arial}
+            font-family: 'Franklin Gothic Medium', Arial;
+            text-align: center;}
             
 .titulo1{
   text-align: center;
@@ -35,7 +36,7 @@ section{color: azure;}
    font-size: 120%;}
 .suruga{text-align: center;
    font-size: 120%;}
-   .lostitu{}
+   .lostitu{text-align: center;}
 
 
    .fototitulos{text-align: right;}
