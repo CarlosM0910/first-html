@@ -61,21 +61,18 @@ section{color: azure;}
 
 .link a {
     padding: 0 1rem;
-    color: var(--text-dark);
+    color: var(--text-dark);   
     transition: 0.3s;
-    
-    
-}
+    }
 
 .link a:hover {
     color: var(--primary-color);
-    
-}
+    }
 
 .historiasa{font-size: 200%;
 text-align: center;}
 
 .fotosudaca{align-items: center;}
 
-.sudaca{{font-size: 200%;
+.sudaca{{font-size: 120%;
     text-align: center;}}
