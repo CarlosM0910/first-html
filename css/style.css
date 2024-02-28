@@ -3,7 +3,8 @@ body{background-color:darkred;}
 section{color: azure;} 
 
 .color-fondo1{background-color: antiquewhite;;
-             h2{color: red;}
+             h2{color: red;
+            text-align: center;}
              ul{color: crimson;} 
              font-size: 150%;
             font-family: 'Franklin Gothic Medium', Arial}
