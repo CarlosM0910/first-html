@@ -4,7 +4,7 @@ section{color: azure;}
 
 .color-fondo1{background-color: antiquewhite;;
              h2{color: red;}
-             ul{color: crimson;}
+             ul{color: crimson;} 
             text-align: center;}
 .titulo1{
   text-align: center;
@@ -33,5 +33,6 @@ section{color: azure;}
    font-size: 120%;}
 .suruga{text-align: center;
    font-size: 120%;}
+   .lostitu{text-align: center;}
 
 
