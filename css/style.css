@@ -3,10 +3,10 @@ body{background-color:darkred;}
 section{color: azure;} 
 
 .color-fondo1{background-color: antiquewhite;;
-             h2{color: red;
-            font-size: 150%;
-            text-align: center;}
-             ul{color: crimson;} }
+             h2{color: red;}
+             ul{color: crimson;} 
+             font-size: 200%;
+            font-family: 'Franklin Gothic Medium', Arial}
             
 .titulo1{
   text-align: center;
