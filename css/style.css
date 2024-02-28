@@ -5,7 +5,7 @@ section{color: azure;}
 .color-fondo1{background-color: antiquewhite;;
              h2{color: red;}
              ul{color: crimson;} 
-             font-size: 150%;
+             font-size: 120%;
             font-family: 'Franklin Gothic Medium', Arial;
             text-align: center;}
             
@@ -15,31 +15,43 @@ section{color: azure;}
   font-family: 'Franklin Gothic Medium', Arial
         }
 
-.escudo1
-{
-}
+.escudo1{}
+
+
 .fondodorado{background-color:#d78d0f;
            color: white;
             font-size: 170%;
             text-align: center;}
 
+
 .escudofondo{background-color: #ffffff;}
+
 
 .origen{text-align: center;     
        font-size: 120%;
        }
+
+
 .independientesa{background-color: #ffffff;
                 color: red;
                 font-size: 110%;
-                font-family: 'Franklin Gothic Medium', Arial;;}
+                font-family: 'Franklin Gothic Medium', Arial;;
+                }
+
+
 .sudaca{text-align: center;
    font-size: 120%;}
+
+
 .suruga{text-align: center;
    font-size: 120%;}
+
+
    .lostitu{text-align: center;}
 
 
    .fototitulos{text-align: center;}
+
 
    .textitu{font-size: 90%;}
 
