@@ -2,7 +2,7 @@ body{background-color:darkred;}
 
 section{color: azure;} 
 
-.color-fondo1{background-color: antiquewhite;;
+.color-fondo1{background-color: antiquewhite;
              h2{color: red;}
              ul{color: crimson;} 
              font-size: 120%;
@@ -42,11 +42,6 @@ section{color: azure;}
 .sudaca{text-align: center;
    font-size: 120%;}
 
-
-.suruga{text-align: center;
-   font-size: 120%;}
-
-
    .lostitu{text-align: center;}
 
 
@@ -66,18 +61,32 @@ section{color: azure;}
 
 .link a {
     padding: 0 1rem;
-    color: var(--text-dark);
+    color: var(--text-dark);   
     transition: 0.3s;
-    
-    
-}
+    }
 
 .link a:hover {
     color: var(--primary-color);
-    
-}
+    }
 
 .historiasa{font-size: 200%;
 text-align: center;}
+
+.fotosudaca{align-items: center;}
+
+.tituido{font-size: 150%;text-align: center;}
+
+.textoido{font-size: 130%;
+text-align: center;}
+
+.omarperez{background-color: antiquewhite;
+color: crimson;
+}
+
+.fotoalfonso{text-align: center;}
+
+.fotoleider{text-align: center;}
+
+.seijasfoto{text-align: center;}
 
 
