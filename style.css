@@ -1,0 +1,10 @@
+.nav-logo{font-weight: 600;
+    cursor:pointer;
+    color: var(--text-dark);}
+
+    .container{max-width: var(--max-width);
+               margin: auto;
+               padding: 5rem|1rem;}
+
+               .imagegallery{display: grid;
+            grid-template-columns: repeat(2,1fr);}

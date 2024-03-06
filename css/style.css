@@ -42,20 +42,22 @@ section{color: azure;}
 .sudaca{text-align: center;
    font-size: 120%;}
 
-   .lostitu{text-align: center;}
+.lostitu{text-align: center;}
 
 
-   .fototitulos{text-align: center;}
+.fototitulos{text-align: center;}
 
 
-   .textitu{font-size: 90%;}
+.textitu{font-size: 90%;
+list-style: none;}
 
 
    .nav-links {
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 1rem;
+    gap: 20rem;
+    font-size: 110%;
     
 }
 
@@ -72,9 +74,10 @@ section{color: azure;}
 .historiasa{font-size: 200%;
 text-align: center;}
 
-.fotosudaca{align-items: center;}
+.fotosudaca{display: center;}
 
-.tituido{font-size: 150%;text-align: center;}
+.tituido{font-size: 150%;text-align: center;
+list-style: none;}
 
 .textoido{font-size: 130%;
 text-align: center;}
@@ -89,4 +92,63 @@ color: crimson;
 
 .seijasfoto{text-align: center;}
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    background-color: var(--text-dark);
+}
+.footer-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5rem;
+    color: var(--secondary-color);
+}
+.footer-col h3{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.footer-col h3 span{
+    color: var(--primary-color);
+}
+.footer-col p{
+    font-size: 0.8rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.footer-col p:hover{
+    color: var(--primary-color);
+}
+.footer-col p span{
+    font-weight: 600;
+}
+.footer-col h4{
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.footer-bar{
+    max-width: var(--max-width);
+    margin: auto;
+    padding: 0.5rem;
+    text-align: center;
+    font-size: 0.8rem;
+    color: black;
+    border-top: 1px solid var(--text-light);
+    background-color: white;
+}
 
